@@ -1,0 +1,39 @@
+form{
+    border: solid 1px;
+    width: 500px;
+    margin-left: 200px;
+    padding-left: 10px;
+    padding-right: 10px;
+    background-color:lightcoral;
+    border-radius: 0% 0% 0% 0%;
+}
+h1{
+    font-size: 50px;
+    text-align: center;
+    color: purple;
+    background-color: aquamarine;
+}
+p{
+    font-size: 18px;
+    font-weight: bold;
+}
+label{
+    font-size: 23px;
+    color: aquamarine;
+    font-weight: bold;
+}
+input{
+    height: 30px;
+    width: 320px; 
+}
+button{
+    height: 50px;
+    width: 150px;
+    background-color: red;
+    color: aliceblue;
+    font-size: 25px;
+    border-radius: 20px;
+}
+button:hover{
+    background-color: peru;
+}
